@@ -1,4 +1,4 @@
-
+*cp.tf
 *.pem
 # Local .terraform directories
 **/.terraform/*
